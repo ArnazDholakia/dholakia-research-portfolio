@@ -37,23 +37,12 @@ Methods and tools I have worked with include:
 
 This repository brings together selected examples of my research, analytical work, and quantitative training.
 
-### `Research Projects/`
-
-Selected research projects involving climate data, socioeconomic analysis, environmental impacts, and quantitative methods.
-
 ### `Research & Professional Experience/`
 
 A detailed overview of my research and professional experience beyond the standard CV format.
 
-### `Coursework/`
 
-Selected quantitative, statistical, economic, mathematical, and climate-science coursework.
-
-### `Methods/`
-
-Selected examples demonstrating statistical, econometric, geospatial, and climate-data workflows.
-
-### `Posters & Presentations/`
+### `Scientific Contribution/`
 
 Selected research posters, presentations, and scientific communication materials.
 
@@ -73,7 +62,7 @@ Quantification and spatial analysis of livestock enteric methane emissions acros
 
 ## About Me
 
-I hold an **MSc in Integrated Climate System Sciences (Economics & Social Sciences)** from Universität Hamburg and a **BA in Economics with a minor in Applied Mathematics** from FLAME University.
+I completed an **MSc in Integrated Climate System Sciences (Economics & Social Sciences)** from Universität Hamburg and a **BA in Economics with a minor in Applied Mathematics** and **Post Graduate Diploma in Interdisciplinary Studies and Research** from FLAME University.
 
 My broader goal is to develop **quantitatively rigorous approaches to understanding climate risk and its socioeconomic consequences**, with particular interest in how uncertainty, heterogeneity, and adaptive capacity shape impact assessments.
 
